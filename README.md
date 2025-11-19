@@ -3,7 +3,7 @@
 
 - 📍 I'm based in **Bandung, Indonesia**
 
-- 👩🏻‍💻 I’m studying at **Bandung Institute Of Technology Majoring Informatics Engineering**
+- 👩🏻‍💻 I’m studying at **Bandung Institute Of Technology Majoring Computer Science**
 
 - 📫 How to reach me **andhikafadhillah2211@gmail.com**
 
